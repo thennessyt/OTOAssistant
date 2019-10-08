@@ -1,6 +1,8 @@
 # OTOAssistant
 Purpose: A command line app that offers helpful editing functions for the vocal synthesizer UTAU library configuration file "oto.ini".
+
 Language: Java
+
 IDE: IntelliJ
 
 
